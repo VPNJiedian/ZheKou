@@ -15,3 +15,8 @@
   http://xl.baililai.xyz/Invitation/register#/?invite_code=SGJLZ94D&name=%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E
 * 苹果用户链接
   http://xl.baililai.xyz/h5#/
+
+### 新人交流
+* Telegram交流群 https://t.me/JieDianCC
+* Telegram人工客服 https://t.me/JieDianKeFu
+* Telegram专用机场 www.jiedian.cc
