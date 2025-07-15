@@ -5,7 +5,7 @@
 2. 无需代理费，无需预存，一单一结，安全无忧；
 3. 平台拥有24小时在线客服，售后无忧；
 
-![xl(1)](https://github.com/user-attachments/assets/90b45f65-682d-4040-ab21-cf6b7228a026)
+![xl(1)](https://github.com/VPNJiedian/ZheKou/blob/main/xlth.png)
 
 
 ### 如何注册
