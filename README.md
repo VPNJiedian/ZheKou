@@ -1,4 +1,4 @@
-# 小利充值平台
+# 小利特惠话费充值平台
 
 ### 项目介绍
 1. 7折话费充值、8折电费燃气费充值、8折京东拼多多代购等多种项目；
@@ -9,13 +9,14 @@
 
 
 ### 如何注册
-* 唯一邀请码 SGJLZ94D
+* 唯一邀请码 96353e
 * PS：不填邀请码无法注册
-* 安卓下载链接
-  http://xl.baililai.xyz/Invitation/register#/?invite_code=SGJLZ94D&name=%E7%9F%B3%E5%8E%9F%E9%87%8C%E7%BE%8E
-* 苹果用户链接
-  http://xl.baililai.xyz/h5#/
-
+* 防丢失官网链接
+  https://www.xlth.cc
+* 一号入口链接
+  https://aaa.xlth.cc
+* 二号入口链接
+  https://bbb.xlth.cc
 ### 新人交流
 * Telegram交流群 https://t.me/JieDianCC
 * Telegram人工客服 https://t.me/JieDianKeFu
